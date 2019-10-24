@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">扫码签到</string>
+    <string name="use_Problem" translatable="false">现有问题仍待解决\n
+        1.生成的二维码模糊问题\n
+        2.下拉刷新问题\n
+        3.需要手动导入成excel表格\n
+        4.第一次进入app可能会闪退，再次进入app即可\n
+        5.账号保存问题（shareP可解决）\n\n
+
+        软件功能仍待测试，有兴趣的同学可以向我反馈bug。\n
+        QQ：1072851416\n
+        欢迎大家交流学习\n
+        </string>
+</resources>
